@@ -13,6 +13,11 @@ MessageMapper is a powerful WhatsApp chat analysis tool that provides detailed i
 - **Individual User Analysis**: Detailed statistics for specific users
 - **Interactive Visualizations**: Bar charts, heatmaps, and pie charts
 
+## 🚀 Deployment
+
+You can check out the live version of the app here:  
+(https://huggingface.co/spaces/Sankhayan1919/MessageMapperhttps://myapp.vercel.app)
+
 ## Installation 🛠️
 
 1. Clone the repository:
